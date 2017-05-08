@@ -1,4 +1,4 @@
-Scale-Invariant Transform Feature (SIFT) 
+ Scale Invariant Feature Transform (SIFT) 
 ====
 
 The implementation of SIFT by MATLAB mixed with C++.

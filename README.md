@@ -1,6 +1,14 @@
-sift
+Scale-Invariant Transform Feature (SIFT) 
 ====
 
-sift algorithm
+The implementation of SIFT by MATLAB mixed with C++.
 
-Scale-Invariant Transform Feature is implemented by MATLAB mixed with C/C++.
+Lowe, David G. "Distinctive image features from scale-invariant keypoints." International journal of computer vision 60.2 (2004): 91-110.
+
+## main script
+main.m
+
+##
+huajh7@gmail.com
+
+2013.11.22
